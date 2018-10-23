@@ -1,0 +1,6 @@
+.tsv
+.csv
+*.tsv
+*.csv
+.idea
+venv
